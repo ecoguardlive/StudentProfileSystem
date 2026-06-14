@@ -41,7 +41,7 @@ Enter courses enrolled (comma-separated): Networks, Database, Systems Analysis
 =============================================
            STUDENT PROFILE
 =============================================
-  Name        : Dennis Asante
+  Name        : Anyan Dennis Amoako
   Age         : 21 years old
   GPA         : 3.75
   Courses     : Networks, Database, Systems Analysis
